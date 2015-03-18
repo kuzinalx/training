@@ -1,4 +1,4 @@
-#include <QCoreApplication>
+﻿#include <QCoreApplication>
 #include <QTextStream>
 #include <QFile>
 #include <QException>
@@ -8,7 +8,7 @@
 
 QTextStream cout(stdout);
 
-
+// comment
 
 void Error( const QString& report )
 {
