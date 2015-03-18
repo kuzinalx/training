@@ -1,6 +1,6 @@
 #ifndef CALC_TOOL_EXCEPTION
 #define CALC_TOOL_EXCEPTION
-
+// comment
 #include <QException>
 
 class CalcToolException : public QException
