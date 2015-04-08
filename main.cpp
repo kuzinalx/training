@@ -8,7 +8,7 @@
 
 QTextStream cout(stdout);
 
-// comment
+// some changed commment
 
 void Error( const QString& report )
 {
