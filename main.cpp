@@ -9,7 +9,7 @@
 QTextStream cout(stdout);
 
 // some changed commment
-
+// changed comment 18.05.14
 void Error( const QString& report )
 {
     throw CalcToolException( report );
